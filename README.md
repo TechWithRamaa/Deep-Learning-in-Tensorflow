@@ -1,2 +1,5 @@
-# deep-learning-in-tensorflow
-Deep-Learning-in-TensorFlow consists of a series of Python notebooks that delve into fundamental concepts and practical applications of deep learning using TensorFlow
+This project is provides a comprehensive introduction to various deep learning techniques,
+from basic neural networks to advanced convolutional neural networks (CNNs), and their applications in real-world problems
+
+Included Notebooks:
+- House Price Prediction using a Single Layer Neural Network
