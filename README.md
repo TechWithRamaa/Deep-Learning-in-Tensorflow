@@ -13,13 +13,13 @@ Included Notebooks:
 
 Model Architecture used in these Notebooks:
 - SLNN-House-Prices-Prediction
-      Model Type: Sequential
-      Layers:
-        Dense Layer:
-        Units: 1
-      Input Shape: [1] (represents the number of bedrooms)
-      Compilation:
-        Optimizer: Stochastic Gradient Descent (SGD)
-        Loss Function: Mean Squared Error (MSE)
-      Training:
-      Epochs: 1000
+     - Model Type: Sequential
+     - Layers:
+        - Dense Layer:
+        - Units: 1
+     - Input Shape: [1] (represents the number of bedrooms)
+     - Compilation:
+          - Optimizer: Stochastic Gradient Descent (SGD)
+          - Loss Function: Mean Squared Error (MSE)
+     - Training:
+         -  Epochs: 1000
