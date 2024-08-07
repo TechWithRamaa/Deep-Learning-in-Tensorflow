@@ -5,4 +5,7 @@ The notebooks are created as assignments while I am taking a course on Coursera
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
 
 Included Notebooks:
-- House Price Prediction using a Single Layer Neural Network
+- SLNN-House-Prices-Prediction
+- Neural-Network-Image-Classification
+- Speeding-Neural-Network-With-Convolution
+- 
