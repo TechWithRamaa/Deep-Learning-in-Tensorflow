@@ -8,7 +8,7 @@ Included Notebooks:
 - SLNN-House-Prices-Prediction
    - This model predicts house prices based on the number of bedrooms using linear regression
 - Neural-Network-Image-Classification
-   - This model trains a neural network to classify MNIST fashion clothing images into 10 categories using a feedforward architecture with one hidden layer
+   - This model trains a neural network to classify Fashion MNIST into 10 categories using a feedforward architecture with one hidden layer
 - Speeding-Neural-Network-With-Convolution
 - CNN-Happy-Sad-Image-Classification
 
