@@ -24,3 +24,6 @@ Model Architecture used in these Notebooks:
           - Loss Function: Mean Squared Error (MSE)
      - Training:
          -  Epochs: 1000
+           
+- Neural-Network-Image-Classification
+
