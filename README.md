@@ -12,18 +12,5 @@ Included Notebooks:
 - Speeding-Neural-Network-With-Convolution
 - CNN-Happy-Sad-Image-Classification
 
-Model Architecture used in these Notebooks:
-- SLNN-House-Prices-Prediction
-     - Model Type: Sequential
-     - Layers:
-        - Dense Layer:
-        - Units: 1
-     - Input Shape: [1] (represents the number of bedrooms)
-     - Compilation:
-          - Optimizer: Stochastic Gradient Descent (SGD)
-          - Loss Function: Mean Squared Error (MSE)
-     - Training:
-         -  Epochs: 1000
-           
-- Neural-Network-Image-Classification
+
 
