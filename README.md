@@ -5,7 +5,7 @@ The notebooks are created as assignments while I am taking a course on Coursera
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
 
 Included Notebooks:
-- SLNN-House-Prices-Prediction
+- SLNN-House-Prices-Prediction - This model predicts house prices based on the number of bedrooms using linear regression
 - Neural-Network-Image-Classification
 - Speeding-Neural-Network-With-Convolution
 - CNN-Happy-Sad-Image-Classification
