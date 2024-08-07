@@ -1,8 +1,10 @@
-This projects contains notebooks that provides a comprehensive introduction to various deep learning techniques,
+This project contains notebooks that provides a comprehensive introduction to various deep learning techniques,
 from basic neural networks to advanced convolutional neural networks (CNNs), and their applications in real-world problems
 
-The notebooks are created as assignments while I am taking a course on Coursera
+These notebooks are created as assignments while I am taking a course on Coursera
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
+
+Skills -> Computer Vision, Image Classification, Dense Neural Network, Convolution, Pooling, Activation, Optimizer, Loss function, Tensorflow, Keras, Python
 
 Included Notebooks:
 - SLNN-House-Prices-Prediction
