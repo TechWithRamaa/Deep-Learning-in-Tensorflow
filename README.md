@@ -10,6 +10,7 @@ Included Notebooks:
 - Neural-Network-Image-Classification
    - This model trains a neural network to classify Fashion MNIST into 10 categories using a feedforward architecture with one hidden layer
 - Speeding-Neural-Network-With-Convolution
+   - This CNN model effectively leverages convolutional and pooling layers for building efficient, scalable, and robust neural networks for multi-classifaction of huge image dataset
 - CNN-Happy-Sad-Image-Classification
 
 
