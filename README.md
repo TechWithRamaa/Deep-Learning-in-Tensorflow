@@ -4,7 +4,7 @@ from basic neural networks to advanced convolutional neural networks (CNNs), and
 These notebooks are created as assignments while I am taking a course on Coursera
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
 
-Skills -> Computer Vision, Image Classification, Dense Neural Network, Convolution, Pooling, Activation, Optimizer, Loss function, Tensorflow, Keras, Python
+Skills -> Computer Vision, Image Classification, Deep Neural Network, Convolution, Pooling, Activation, Optimizer, Loss function, Tensorflow, Keras, Python
 
 Included Notebooks:
 - SLNN-House-Prices-Prediction
