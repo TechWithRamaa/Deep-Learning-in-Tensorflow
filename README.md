@@ -10,8 +10,9 @@ Included Notebooks:
 - SLNN-House-Prices-Prediction
    - This model predicts house prices based on the number of bedrooms using linear regression
       - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/SLNN-House-Prices-Prediction.ipynb
-- https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Neural-Network-Image-Classification.ipynb
+- Neural-Network-Image-Classification
    - This model trains a neural network to classify Fashion MNIST into 10 categories using a feedforward architecture with one hidden layer
+      - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Neural-Network-Image-Classification.ipynb
 - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Speeding-Neural-Network-With-Convolution.ipynb
    - This CNN model effectively leverages convolutional and pooling layers for building efficient, scalable, and robust neural networks for multi-classifaction of huge image dataset
 - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/CNN-Happy-Sad-Image-Classification.ipynb
