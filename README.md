@@ -7,8 +7,9 @@ These notebooks are created as assignments while I am taking a course on Courser
 Skills -> Computer Vision, Image Classification, Deep Neural Network, Convolution, Pooling, Activation, Optimizer, Loss function, Tensorflow, Keras, Python
 
 Included Notebooks:
-- https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/SLNN-House-Prices-Prediction.ipynb
+- SLNN-House-Prices-Prediction
    - This model predicts house prices based on the number of bedrooms using linear regression
+      - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/SLNN-House-Prices-Prediction.ipynb
 - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Neural-Network-Image-Classification.ipynb
    - This model trains a neural network to classify Fashion MNIST into 10 categories using a feedforward architecture with one hidden layer
 - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Speeding-Neural-Network-With-Convolution.ipynb
