@@ -16,9 +16,10 @@ Included Notebooks:
 - Speeding-Neural-Network-With-Convolution
    - This CNN model effectively leverages convolutional and pooling layers for building efficient, scalable, and robust neural networks for multi-classifaction of huge image dataset
       - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Speeding-Neural-Network-With-Convolution.ipynb 
-- https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/CNN-Happy-Sad-Image-Classification.ipynb
+- CNN-Happy-Sad-Image-Classification
    - This model features a CNN for binary image classification (happy/sad) with three convolutional layers, ReLU activation, and max pooling,
-     followed by a dense layer and sigmoid output. It uses the Adam optimizer and binary cross-entropy loss, with early stopping based on accuracy.
+     followed by a dense layer and sigmoid output. It uses the Adam optimizer and binary cross-entropy loss, with early stopping based on accuracy
+        - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/CNN-Happy-Sad-Image-Classification.ipynb
 
 
 
