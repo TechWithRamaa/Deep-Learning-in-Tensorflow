@@ -13,8 +13,9 @@ Included Notebooks:
 - Neural-Network-Image-Classification
    - This model trains a neural network to classify Fashion MNIST into 10 categories using a feedforward architecture with one hidden layer
       - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Neural-Network-Image-Classification.ipynb
-- https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Speeding-Neural-Network-With-Convolution.ipynb
+- Speeding-Neural-Network-With-Convolution
    - This CNN model effectively leverages convolutional and pooling layers for building efficient, scalable, and robust neural networks for multi-classifaction of huge image dataset
+      - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/Speeding-Neural-Network-With-Convolution.ipynb 
 - https://github.com/TechWithRamaa/Deep-Learning-in-Tensorflow/blob/main/CNN-Happy-Sad-Image-Classification.ipynb
    - This model features a CNN for binary image classification (happy/sad) with three convolutional layers, ReLU activation, and max pooling,
      followed by a dense layer and sigmoid output. It uses the Adam optimizer and binary cross-entropy loss, with early stopping based on accuracy.
